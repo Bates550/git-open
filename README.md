@@ -146,3 +146,4 @@ Copyright Jason McCreary & Paul Irish. Licensed under MIT.
 - **2016-07-11** - Changelog started (readme formatting and installation
   instructions updated)
 
+dumb test
